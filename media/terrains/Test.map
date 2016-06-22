@@ -1,0 +1,28 @@
+[Map]
+Name=Test
+Seed=9PY31s988M
+[Terrain]
+Filename=TestTerrain.cfg
+Size=5000 5000
+Boundary=0
+[Sky]
+HasSky=true
+Filename=Test
+[Objects]
+Filename=TestObjects.cfg
+[Gates]
+Filename=TestGates.cfg
+[Water]
+Filename=TestWater.cfg
+Ocean=2500 200 2500
+OceanSize=6000 6000
+[MapMaker]
+StartPos=448.95 565.581 6381.06
+[Weather]
+Filename=Final
+[Portal]
+HasPortal=true
+Position=1281 299 4498
+Yaw=0
+[Music]
+Name=test.ogg

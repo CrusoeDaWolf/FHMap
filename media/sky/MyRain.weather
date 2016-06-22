@@ -1,0 +1,7 @@
+[MyRain]
+ps=Weather/Rain
+offset=0 1 0
+rate=3500
+skytop=0 0 0 1
+skybot=0 0.134979 0.140231 1
+clouds=0.186198 0.204427 0.240886 1

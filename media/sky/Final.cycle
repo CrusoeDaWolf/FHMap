@@ -1,0 +1,16 @@
+[1000-2000]
+type=MyRain
+[0-1000]
+type=MyRain
+fade=in
+[2000-3000]
+type=MyRain
+fade=out
+[4000-5000]
+type=MyRain
+fade=in
+[5000-6000]
+type=MyRain
+[6000-7000]
+type=MyRain
+fade=out
