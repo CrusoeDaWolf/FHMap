@@ -12,10 +12,6 @@ Filename=Test
 Filename=TestObjects.cfg
 [Gates]
 Filename=TestGates.cfg
-[Water]
-Filename=TestWater.cfg
-Ocean=2500 200 2500
-OceanSize=6000 6000
 [MapMaker]
 StartPos=448.95 565.581 6381.06
 [Weather]
